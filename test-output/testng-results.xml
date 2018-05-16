@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90684" started-at="2018-05-16T11:13:08Z" finished-at="2018-05-16T11:14:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90684" started-at="2018-05-16T11:13:08Z" finished-at="2018-05-16T11:14:39Z">
+      <class name="com.datadriventest.HalfEbdayTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="9960" started-at="2018-05-16T16:43:09Z" finished-at="2018-05-16T16:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1371" started-at="2018-05-16T16:43:19Z" data-provider="getTestData" finished-at="2018-05-16T16:43:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950675.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1225" started-at="2018-05-16T16:43:20Z" finished-at="2018-05-16T16:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="8792" started-at="2018-05-16T16:43:21Z" finished-at="2018-05-16T16:43:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1336" started-at="2018-05-16T16:43:30Z" data-provider="getTestData" finished-at="2018-05-16T16:43:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950676.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1075" started-at="2018-05-16T16:43:32Z" finished-at="2018-05-16T16:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="9272" started-at="2018-05-16T16:43:33Z" finished-at="2018-05-16T16:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1447" started-at="2018-05-16T16:43:42Z" data-provider="getTestData" finished-at="2018-05-16T16:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[k]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[14,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950677.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test3@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1073" started-at="2018-05-16T16:43:43Z" finished-at="2018-05-16T16:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="9373" started-at="2018-05-16T16:43:44Z" finished-at="2018-05-16T16:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1342" started-at="2018-05-16T16:43:54Z" data-provider="getTestData" finished-at="2018-05-16T16:43:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950678.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test4@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1078" started-at="2018-05-16T16:43:55Z" finished-at="2018-05-16T16:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="8309" started-at="2018-05-16T16:43:56Z" finished-at="2018-05-16T16:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1458" started-at="2018-05-16T16:44:05Z" data-provider="getTestData" finished-at="2018-05-16T16:44:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950675.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1074" started-at="2018-05-16T16:44:06Z" finished-at="2018-05-16T16:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="8313" started-at="2018-05-16T16:44:07Z" finished-at="2018-05-16T16:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1366" started-at="2018-05-16T16:44:15Z" data-provider="getTestData" finished-at="2018-05-16T16:44:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ooty]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950676.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1081" started-at="2018-05-16T16:44:17Z" finished-at="2018-05-16T16:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="8185" started-at="2018-05-16T16:44:18Z" finished-at="2018-05-16T16:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1434" started-at="2018-05-16T16:44:26Z" data-provider="getTestData" finished-at="2018-05-16T16:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[k]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[14,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950677.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test3@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1088" started-at="2018-05-16T16:44:27Z" finished-at="2018-05-16T16:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="setUp" is-config="true" duration-ms="7588" started-at="2018-05-16T16:44:29Z" finished-at="2018-05-16T16:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HalfEbayRegTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="HalfEbayRegTest" duration-ms="1351" started-at="2018-05-16T16:44:36Z" data-provider="getTestData" finished-at="2018-05-16T16:44:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15,sivaji nagar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[township]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[950678.0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test4@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HalfEbayRegTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriventest.HalfEbdayTest@d62f43]" name="tearDown" is-config="true" duration-ms="1076" started-at="2018-05-16T16:44:37Z" finished-at="2018-05-16T16:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriventest.HalfEbdayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
